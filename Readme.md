@@ -1,5 +1,7 @@
 # ESPResSo
 
+[![Join the chat at https://gitter.im/hmenke/espresso](https://badges.gitter.im/hmenke/espresso.svg)](https://gitter.im/hmenke/espresso?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the Molecular Dynamics software ESPResSo ("Extensible
 Simulation Package for the Research on Soft Matter Systems").
 
